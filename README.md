@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@h_olv"/>    
 <a href="https://https://holv2e.tistory.com/">
 <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
-<br>
+<br><br>
 
 ## 📚 Skill
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
@@ -27,8 +27,7 @@
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" />
 </div>
 
-
-<br>
+<br><br>
 
 ## 💻 Library
 <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white"/>
@@ -36,7 +35,7 @@
 <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
 <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=flat-square&logo=NumPy&logoColor=white"/>
 <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-square&logo=Selenium&logoColor=white"/>
-<br>
+<br><br>
 
 
 
