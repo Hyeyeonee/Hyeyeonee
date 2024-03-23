@@ -1,16 +1,56 @@
-### Hi there 👋
+<br><br>
 
-<!--
-**Hyeyeonee/Hyeyeonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = "center">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome%20to%20Hyeyeon's%20Github%20👋&fontSize=30&animation=twinkling)
+
+<br>
+
+## 👻 About Me
+<a href="hyeyeon0907.2e@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://velog.io/@h_olv">
+<img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@h_olv"/>    
+</a>
+
+<br>
+
+## 📚 Skill
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
+<img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=blue"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" height="54" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" />
+</div>
+
+
+<br>
+
+## 💻 Library
+<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white"/>
+<img alt="scikit-learn" src ="https://img.shields.io/badge/scikit learn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=flat-square&logo=NumPy&logoColor=white"/>
+<img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-square&logo=Selenium&logoColor=white"/>
+<br>
+
+
+
+## 🚀 Experience
+
+|Date|Type|Contents|Organization|
+|-----------------|-----------------------|---------------------------------------------------------|----------------------|
+|2021.03 ~ in progress|🏫 Education|Bachelor of Applied Statistics|Chung-Ang Univ.|
+|2022.03 ~ in progress|🏫 Education|Bachelor of Computer Science and Engineering|Chung-Ang Univ.|
+
+
+
+<br><br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlgpdus97)](https://solved.ac/dlgpdus97)
+
