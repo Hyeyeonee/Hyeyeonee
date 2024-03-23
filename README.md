@@ -3,7 +3,7 @@
 <div align = "center">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome%20to%20Hyeyeon's%20Github%20👋&fontSize=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d8bfd8&height=150&section=header&text=Welcome%20to%20Hyeyeon's%20Github%20👋&fontSize=30&animation=twinkling)
 
 <br>
 
@@ -14,7 +14,9 @@
 <a href="https://velog.io/@h_olv">
 <img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@h_olv"/>    
 </a>
-
+<a href="https://https://holv2e.tistory.com/" target="_blank">
+<img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
+</a>
 <br>
 
 ## 📚 Skill
