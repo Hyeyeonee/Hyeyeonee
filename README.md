@@ -3,7 +3,7 @@
 <div align = "center">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=d8bfd8&height=200&section=header&text=Welcome%20to%20Hyeyeon's%20Github%20👋&fontSize=30&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d8bfd8&height=250&section=header&text=Welcome%20to%20Hyeyeon's%20Github%20👋&fontSize=30&animation=twinkling&fontColor=ffffff)
 
 <br>
 
