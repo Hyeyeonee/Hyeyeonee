@@ -8,13 +8,13 @@
 <br>
 
 ## 👻 About Me
-<a href="hyeyeon0907.2e@gmail.com" target="_blank">
+<a href="hyeyeon0907.2e@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 <a href="https://velog.io/@h_olv">
 <img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@h_olv"/>    
 </a>
-<a href="https://https://holv2e.tistory.com/" target="_blank">
+<a href="https://https://holv2e.tistory.com/">
 <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
 <br>
